@@ -16,4 +16,11 @@ wp-content/plugins/hello.php
 /readme.html
 /sitemap.xml
 /sitemap.xml.gz
-
+<html>
+<head>
+<title>Gamerena</title>
+</head>
+<body>
+<h1>This is a game review site</h1>
+</body>
+</html>
